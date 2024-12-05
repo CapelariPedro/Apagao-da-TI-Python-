@@ -1,0 +1,8 @@
+CONTEÚDO: 
+1: Aplicações com Python; 
+2: Variáveis e Reuso de Software; 
+3: Execução Contínua de Softwares; 
+4: Formatação Avançada com Strings e Dicionários; 
+5: Programação orientada a objetos; 
+6: Habilidades Exponenciais; 
+7: Desenvolvimento de Projeto Aplicado.
