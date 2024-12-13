@@ -1,0 +1,6 @@
+order_id,product_name,quantity,price,order_date,customer_id
+1001,Smartphone XYZ,1,1500.0,2023-11-24,C001
+1002,Fones de Ouvido,2,200.0,2023-12-01,C002
+1003,Notebook ABC,1,3500.0,2023-12-15,C003
+1004,Smartphone XYZ,1,1500.0,2024-01-05,C001
+1005,Teclado Mecânico,3,300.0,2024-01-12,C004
